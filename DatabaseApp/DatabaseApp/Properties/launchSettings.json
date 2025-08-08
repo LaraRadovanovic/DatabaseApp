@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DatabaseApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DatabaseApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
